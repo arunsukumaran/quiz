@@ -1,0 +1,448 @@
+.dropdown-menu .dropdown-item{
+	text-transform: none;
+	padding: .25rem 0rem;
+	line-height: 1.9;
+	font-size: 14px;
+}
+.form-control{
+	border: 1px solid #cfcfcf;
+	color: #0c0b0b;
+}
+.form-control::placeholder {
+
+    color: #79858d;
+}
+.alert p {
+	margin-bottom: 0px;
+}
+
+.form-audio{
+	cursor: pointer;
+}
+.text-mashup{
+  background: -webkit-linear-gradient(45deg, #ff0000, #fc0083);
+  -webkit-background-clip: text;
+  -webkit-text-fill-color: transparent;
+}
+.btn-mashup {
+  color: #fff;
+  background-image: linear-gradient(45deg, #ff0000, #fc0083);
+  border-color: #ff0000; }
+.btn-mashup:hover {
+  color: #fff;
+  background-image: linear-gradient(45deg, #ff0000, #fc0083);
+  border-color: #ff0000;
+  -webkit-box-shadow: 0 1px 10px  rgba(251, 63, 41, 0.5);
+          box-shadow: 0 1px 10px  rgba(251, 63, 41, 0.5); }
+.btn-mashup:focus, .btn-mashup.focus {
+  color: #fff;
+  -webkit-box-shadow: 0 0 0 0rem  rgba(251, 63, 41, 0.4);
+          box-shadow: 0 0 0 0rem  rgba(251, 63, 41, 0.4); }
+
+.btn-pink {
+  color: #fff;
+  background-color:#fc0083 ;
+  border-color: #fc0083; }
+  .btn-pink:hover {
+    color: #fff;
+    background-color: #ff1b92;
+    border-color: #ff1b92;
+    -webkit-box-shadow: 0 1px 10px rgba(255, 80, 234, 0.4);
+            box-shadow: 0 1px 10px rgba(255, 80, 234, 0.4); }
+  .btn-pink:focus, .btn-pink.focus {
+    color: #fff;
+    -webkit-box-shadow: 0 0 0 0rem rgba(80, 161, 255, 0.5);
+            box-shadow: 0 0 0 0rem rgba(80, 161, 255, 0.5); }
+
+.text-pink{ color:  #ff1b92; }
+
+.btn-outline-white {
+  color: #fff;
+  background-color: transparent;
+  background-image: none;
+  border-color: #FFF; }
+  .btn-outline-white:focus, .btn-outline-white.focus {
+    color: #fff;
+    -webkit-box-shadow: 0 0 0 0rem rgba(25, 25, 25, 0.5);
+            box-shadow: 0 0 0 0rem rgba(25, 25, 25, 0.5); }
+  .btn-outline-white:hover {
+    color: #ddd;
+    background-color: #191919;
+    border-color: #FFF;
+    -webkit-box-shadow: 0 1px 10px rgba(25, 25, 25, 0.4);
+            box-shadow: 0 1px 10px rgba(25, 25, 25, 0.4); }
+
+
+
+h1, h2, h3, h4, h5, h6,{
+  color:#111;
+}
+body{
+  color:#777;
+  letter-spacing: 0.01em;
+  font-weight: 400 !important;
+}
+
+
+
+
+a.morelink {
+  text-decoration:none;
+  outline: none;
+}
+.morecontent span {
+  display: none;
+
+}
+
+.larval-FS{
+  background: url('/assets/image/course-min.png') no-repeat -606px -5px;
+  width: 586px;
+  height: 342px;
+}
+.award18{
+    background: url('/assets/image/mashupstack-min.png') no-repeat -826px -734px;
+  /*width: 443px;*/
+  /*height: 340px;*/
+}
+.sreenath-master-trainer{
+  background: url('/assets/image/mashupstack-min.png') no-repeat -1280px -676px;
+  width: 400px;
+  height: 400px;
+}
+.planet{
+  background: url('/assets/image/mashupstack-min.png') no-repeat -312px -4px;
+  width: 114px;
+  height: 128px;
+}
+.rocket{
+  background: url('/assets/image/mashupstack-min.png') no-repeat -438px -4px;
+  width: 108px;
+  height: 127px;
+}
+.pet{
+  background: url('/assets/image/mashupstack-min.png') no-repeat -556px -4px;
+  width: 125px;
+  height: 126px;
+}
+
+
+.nived{
+  background: url('/assets/image/placed-student .png') no-repeat -774px -511px;
+  width: 123px;
+  height: 122px;
+}
+.sunaina{
+  background: url('/assets/image/placed-student .png') no-repeat -644px -511px;
+  width: 123px;
+  height: 122px;
+}
+
+.amaldev{
+  background: url('/assets/image/placed-student .png') no-repeat -516px -512px;
+  width: 120px;
+  height: 119px;
+}
+.sachin{
+  background: url('/assets/image/placed-student .png') no-repeat -388px -512px;
+  width: 121px;
+  height: 122px;
+}
+.vijith{
+  background: url('/assets/image/placed-student .png') no-repeat -258px -511px;
+  width: 122px;
+  height: 122px;
+}
+.meenu{
+  background: url('/assets/image/placed-student .png') no-repeat -129px -511px;
+  width: 122px;
+  height: 122px;
+}
+.anjua{
+  background: url('/assets/image/placed-student .png') no-repeat -2px -511px;
+  width: 122px;
+  height: 121px;
+}
+.sumi{
+  background: url('/assets/image/placed-student .png') no-repeat -1678px -384px;
+  width: 121px;
+  height: 123px;
+}
+.mithun{
+  background: url('/assets/image/placed-student .png') no-repeat -1548px -384px;
+  width: 119px;
+  height: 119px;
+}
+.devi{
+  background: url('/assets/image/placed-student .png') no-repeat -1419px -384px;
+  width: 120px;
+  height: 120px;
+}
+.vishnu{
+  background: url('/assets/image/placed-student .png') no-repeat -1290px -384px;
+  width: 120px;
+  height: 121px;
+}
+.aromal{
+  background: url('/assets/image/placed-student .png') no-repeat -1160px -384px;
+  width: 120px;
+  height: 120px;
+}
+.aysha{
+  background: url('/assets/image/placed-student .png') no-repeat -1032px -384px;
+  width: 122px;
+  height: 122px;
+}
+.abhidas{
+  background: url('/assets/image/placed-student .png') no-repeat -903px -384px;
+  width: 119px;
+  height: 119px;
+}
+.vipin{
+  background: url('/assets/image/placed-student .png') no-repeat -774px -384px;
+  width: 113px;
+  height: 114px;
+}
+.vaisakhsp{
+  background: url('/assets/image/placed-student .png') no-repeat -646px -384px;
+  width: 119px;
+  height: 120px;
+}
+.athira{
+  background: url('/assets/image/placed-student .png') no-repeat -516px -384px;
+  width: 120px;
+  height: 120px;
+}
+.anjuaneesh{
+  background: url('/assets/image/placed-student .png') no-repeat -388px -384px;
+  width: 120px;
+  height: 122px;  
+}
+.parvathy{
+  background: url('/assets/image/placed-student .png') no-repeat -257px -384px;
+  width: 122px;
+  height: 122px;
+}
+.navaneeth{
+  background: url('/assets/image/placed-student .png') no-repeat -129px -384px;
+  width: 120px;
+  height: 119px;
+}
+.vaishnav{
+  background: url('/assets/image/placed-student .png') no-repeat 0 -384px;
+  width: 118px;
+  height: 119px;
+}
+.asif{
+  background: url('/assets/image/placed-student .png') no-repeat -1678px -255px;
+  width: 121px;
+  height: 121px;
+}
+.muthu{
+  background: url('/assets/image/placed-student .png') no-repeat -1548px -256px;
+  width: 122px;
+  height: 120px;
+}
+.bincy{
+  background: url('/assets/image/placed-student .png') no-repeat -1420px -256px;
+  width: 120px;
+  height: 121px;
+}
+.gokul{
+  background: url('/assets/image/placed-student .png') no-repeat -1290px -256px;
+  width: 123px;
+  height: 115px;
+}
+.gopu{
+  background: url('/assets/image/placed-student .png') no-repeat -1160px -256px;
+  width: 120px;
+  height: 120px;
+}
+.thomas{
+  background: url('/assets/image/placed-student .png') no-repeat -1032px -256px;
+  width: 122px;
+  height: 122px;
+}
+.athira{
+  background: url('/assets/image/placed-student .png') no-repeat -903px -256px;
+  width: 120px;
+  height: 120px;
+}
+.ashwin{
+  background: url('/assets/image/placed-student .png') no-repeat -774px -256px;
+  width: 121px;
+  height: 121px;
+}
+.tushar{
+  background: url('/assets/image/placed-student .png') no-repeat -646px -256px;
+  width: 121px;
+  height: 122px;
+}
+.kiran{
+  background: url('/assets/image/placed-student .png') no-repeat -516px -255px;
+  width: 121px;
+  height: 121px;
+}
+.rubeena{
+  background: url('/assets/image/placed-student .png') no-repeat -387px -256px;
+  width: 122px;
+  height: 122px;
+}
+.gopika{
+  background: url('/assets/image/placed-student .png') no-repeat -258px -256px;
+  width: 121px;
+  height: 122px;
+}
+.fathima{
+  background: url('/assets/image/placed-student .png') no-repeat -130px -256px;
+  width: 122px;
+  height: 123px;
+}
+.abhinaya{
+  background: url('/assets/image/placed-student .png') no-repeat 0 -256px;
+  width: 122px;
+  height: 122px;
+}
+.roshya{
+  background: url('/assets/image/placed-student .png') no-repeat -1678px -127px;
+  width: 122px;
+  height: 122px;
+}
+.anju{
+  background: url('/assets/image/placed-student .png') no-repeat -1548px -127px;
+  width: 119px;
+  height: 121px;
+}
+.priya{
+  background: url('/assets/image/placed-student .png') no-repeat -1420px -129px;
+  width: 122px;
+  height: 122px;
+}
+.nayan{
+  background: url('/assets/image/placed-student .png') no-repeat -1291px -130px;
+  width: 122px;
+  height: 121px;
+}
+.gaius{
+  background: url('/assets/image/placed-student .png') no-repeat -1160px -129px;
+  width: 121px;
+  height: 121px;
+}
+.sanu{
+  background: url('/assets/image/placed-student .png') no-repeat -1033px -128px;
+  width: 123px;
+  height: 121px; 
+}
+.yaser{
+  background: url('/assets/image/placed-student .png') no-repeat -904px -127px;
+  width: 118px;
+  height: 121px; 
+}
+.shirin{
+  background: url('/assets/image/placed-student .png') no-repeat -774px -128px;
+  width: 117px;
+  height: 121px;
+}
+.meenashi{
+background: url('/assets/image/placed-student .png') no-repeat -645px -127px;
+width: 121px;
+height: 121px;
+}
+
+.gokul{
+background: url('/assets/image/placed-student .png') no-repeat -516px -128px;
+width: 121px;
+height: 120px;
+}
+.anjubaby{
+background: url('/assets/image/placed-student .png') no-repeat -387px -128px;
+width: 119px;
+height: 122px;
+}
+.ebin{
+background: url('/assets/image/placed-student .png') no-repeat -260px -128px;
+width: 121px;
+height: 122px;
+}
+.aswathy{
+background: url('/assets/image/placed-student .png') no-repeat -128px -128px;
+width: 121px;
+height: 121px;
+}
+.arunima{
+background: url('/assets/image/placed-student .png') no-repeat -2px -128px;
+width: 121px;
+height: 123px;
+}
+.lekshmipriya{
+background: url('/assets/image/placed-student .png') no-repeat -1678px 0;
+width: 122px;
+height: 121px;
+}
+.anjana{
+background: url('/assets/image/placed-student .png') no-repeat -1548px -2px;
+width: 122px;
+height: 121px;
+}
+.anjali{
+background: url('/assets/image/placed-student .png') no-repeat -1419px 0;
+width: 122px;
+height: 122px;
+}
+.arya{
+background: url('/assets/image/placed-student .png') no-repeat -1291px 0;
+width: 122px;
+height: 121px;
+}
+.anusree{
+background: url('/assets/image/placed-student .png') no-repeat -1162px 0;
+width: 122px;
+height: 122px;
+}
+.austin{
+background: url('/assets/image/placed-student .png') no-repeat -1032px 0;
+width: 124px;
+height: 122px;
+}
+.sandeep{
+background: url('/assets/image/placed-student .png') no-repeat -904px -1px;
+width: 120px;
+height: 120px;
+}
+.nicolas{
+background: url('/assets/image/placed-student .png') no-repeat -773px 0;
+width: 123px;
+height: 122px;
+}
+.rintu{
+background: url('/assets/image/placed-student .png') no-repeat -645px 0;
+width: 124px;
+height: 121px;
+}
+.alan{
+background: url('/assets/image/placed-student .png') no-repeat -516px 0;
+width: 122px;
+height: 121px;
+}
+.visakh{
+background: url('/assets/image/placed-student .png') no-repeat -386px 0;
+width: 122px;
+height: 121px;
+}
+.akash{
+background: url('/assets/image/placed-student .png') no-repeat -258px 0;
+width: 120px;
+height: 121px;
+}
+
+.jayakrishnan{
+background: url('/assets/image/placed-student .png') no-repeat -130px 0;
+width: 122px;
+height: 122px;
+}
+
+.jishnu{
+background: url('/assets/image/placed-student .png') no-repeat -1px 0;
+width: 123px;
+height: 122px;
+}
